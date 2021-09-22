@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+.green {
+    background-color: #4CAF50 !important
+}
+#navbar-main {
+    background-color: #4CAF50 !important;
+    color:  white;
+}
+.brand-logo {
+    font-family: 'Piedra', cursive;
+}
